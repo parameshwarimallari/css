@@ -1,5 +1,5 @@
 .container {
-    width: 90%;
+    width: 100%;
     padding: top 20px;
     border: 10px;
 
@@ -13,8 +13,8 @@
     display: inline-block;
     padding: 20px;
     border: 2px;
-    height: 500px;
-    width: 300px;
+    height: 400px;
+    width: 400px;
     margin-top: 10px;
     margin-right: 10px;
 
@@ -24,9 +24,10 @@
     display: inline-block;
     border: 2px;
     align-items: center;
-    margin: right 10px;;
+    margin: right 5px;
     padding-left: 40px;
-    gap: 20px;
+
+;
 }
 
 .head1 img {
@@ -35,18 +36,131 @@
 }
 
 img {
-    width: 80%;
+    width: 100%;
 }
 
 .head2 {
     display: inline-block;
-    
-   
-    padding-left: 500px;
+    padding-left: 700px;
+    font-size: 20px
 }
 
 .head3 {
     display: inline-block;
-    padding-left: 500px;
+    padding-left: 700px;
+    font-size: 20px 
+}
+
+.container2 {
+    width: 100%;
+    padding: top 20px;
+
+
+}
+
+.item5,
+.item6,
+.item7,
+.item8 {
+    display: inline-block;
+    padding: 20px;
+
+    height: 500px;
+    width: 400px;
+    margin-top: 10px;
+    margin-right: 10px;
+
+}
+
+.img {
+    width: 100%;
+}
+
+.heading {
+    display: inline-block;
+    margin-left: 700px;
+    padding-top: 50px;
+}
+
+.image2 {
+    width: 70%;
+    margin-left: 200px;
+}
+
+.text {
+    margin-left: 700px;
+    font-size: 39px;
+
+}
+
+.para {
+    width: 70%;
+    padding-left: 200px;
+    font-size: 25px;
+}
+
+.container3 {
+    width: 90%;
+    margin-left: 200px;
+   margin-left: 200px;
+}
+
+.con1 {
+    display: inline-block;
+   
+    width: 400px;
+   
+    font-size: 20px;
+    
+}
+
+.con2 {
+    display: inline-block;
+   
+   margin-left: 120px;
+    
+    width: 500px;
+
+}
+
+.con2 img {
+    width: 100px;
+}
+
+/* .con2 h2,p {
+    display: inline-block;
+    
+} */
+
+.con3 {
+    display: inline-block;
+   
+margin-left: 130px;
+   
+    width: 300px;
+   margin-bottom: 20px;
+
+}
+
+.con3 button {
+    width: 100px;
+    height: 250;
+    margin-top: 6px;
+border-radius: 6px;
+    background-color: rgb(115, 111, 111);
+}
+
+.con21 {
+    display: inline-block;
+    width: 300px;
+    /* border: solid rebeccapurple; */
+}
+
+/* .con21{
+   display: inline;
+} */
+.con22 {
+    display: inline-block;
+    width: 300px;
    
 }
