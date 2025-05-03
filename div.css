@@ -1,0 +1,52 @@
+.container {
+    width: 90%;
+    padding: top 20px;
+    border: 10px;
+
+
+}
+
+.item1,
+.item2,
+.item3,
+.item4 {
+    display: inline-block;
+    padding: 30px;
+    border: 2px;
+    height: 500px;
+    width: 350px;
+    margin-top: 10px;
+    margin-right: 20px;
+
+}
+
+.head1 {
+    display: inline-block;
+    border: 2px;
+    align-items: center;
+    margin: right 10px;;
+    padding-left: 40px;
+    gap: 20px;
+}
+
+.head1 img {
+    width: 50px;
+
+}
+
+img {
+    width: 100%;
+}
+
+.head2 {
+    display: inline-block;
+    padding-left: 100px;
+   
+    padding-left: 700px;
+}
+
+.head3 {
+    display: inline-block;
+    padding-left: 700px;
+   
+}
