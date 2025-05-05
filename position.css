@@ -1,0 +1,21 @@
+.container{
+    width: 90%;
+   
+}
+.item1,.item2,.item3,.item4,.item5,.item6,.item7,.item8,.item9{
+    display: inline-block;
+    position: relative;
+    padding-right: 10px;
+
+}
+h1{
+display: inline-block;
+position: absolute;
+top: 0px;
+left: 0px;
+padding: 10px;
+background: black;
+color: white;
+margin: 0px;
+
+}
