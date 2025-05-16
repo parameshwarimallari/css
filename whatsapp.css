@@ -171,4 +171,8 @@ padding-top: 0px; */
             .received h4 {
                 font-size: 14px;
             }
+            .message{
+                bottom: 170px; 
+                 width: 400px;
+            }
         }
